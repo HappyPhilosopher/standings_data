@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "stock_name": "全柴动力",
+            "recommended_date": "2月11日",
+            "open_price": 7.46,
+            "highest_price": 12.32,
+            "fluctuation": "65.15%",
+            "recommended_reason": "燃料电池"
+        },
+        {
+            "stock_name": "维信诺",
+            "recommended_date": "2月1日",
+            "open_price": 8.95,
+            "highest_price": 13.62,
+            "fluctuation": "52.18%",
+            "recommended_reason": "OLED"
+        },
+        {
+            "stock_name": "顺灏股份",
+            "recommended_date": "2月11日",
+            "open_price": 5.62,
+            "highest_price": 9.50,
+            "fluctuation": "69.04%",
+            "recommended_reason": "工业大麻"
+        },
+        {
+            "stock_name": "新五丰",
+            "recommended_date": "2月1日",
+            "open_price": 4.03,
+            "highest_price": 7.01,
+            "fluctuation": "71.22%",
+            "recommended_reason": "猪肉"
+        }
+    ]
+}

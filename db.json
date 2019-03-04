@@ -37,5 +37,7 @@
             "holding_period": "8天"
         }
     ],
-    "wechatNum": "xyz8433"
+    "wechatNum": {
+        "num": "xyz8433"
+    }
 }

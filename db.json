@@ -2,6 +2,7 @@
     "data": [
         {
             "stock_name": "全柴动力",
+            "stock_code": "600218",
             "recommended_date": "2月11日",
             "open_price": 7.46,
             "highest_price": 12.32,
@@ -11,6 +12,7 @@
         },
         {
             "stock_name": "维信诺",
+            "stock_code": "002387",
             "recommended_date": "2月1日",
             "open_price": 8.95,
             "highest_price": 13.62,
@@ -20,6 +22,7 @@
         },
         {
             "stock_name": "顺灏股份",
+            "stock_code": "002565",
             "recommended_date": "2月11日",
             "open_price": 5.62,
             "highest_price": 9.50,
@@ -29,6 +32,7 @@
         },
         {
             "stock_name": "新五丰",
+            "stock_code": "600975",
             "recommended_date": "2月1日",
             "open_price": 4.03,
             "highest_price": 7.01,
@@ -38,7 +42,7 @@
         }
     ],
     "wechatNum": {
-        "num": "xyz8433"
+        "num": "yry668518"
     },
     "monthBeforeLast_data": [
         {

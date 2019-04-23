@@ -1,48 +1,48 @@
 {
     "data": [
         {
-            "stock_name": "全柴动力",
-            "stock_code": "600218",
-            "recommended_date": "2月11日",
-            "open_price": 7.46,
-            "highest_price": 12.32,
-            "fluctuation": "65.15%",
-            "recommended_reason": "燃料电池",
+            "stock_name": "闽东电力",
+            "stock_code": "000993",
+            "recommended_date": "3月1日",
+            "open_price": 6.00,
+            "highest_price": 10.42,
+            "fluctuation": "73.67%",
+            "recommended_reason": "稀土永磁",
             "holding_period": "9天"
         },
         {
-            "stock_name": "维信诺",
-            "stock_code": "002387",
-            "recommended_date": "2月1日",
-            "open_price": 8.95,
-            "highest_price": 13.62,
-            "fluctuation": "52.18%",
-            "recommended_reason": "OLED",
+            "stock_name": "上海凤凰",
+            "stock_code": "600679",
+            "recommended_date": "3月11日",
+            "open_price": 11.11,
+            "highest_price": 18.67,
+            "fluctuation": "68.05%",
+            "recommended_reason": "上海自贸区",
             "holding_period": "6天"
         },
         {
-            "stock_name": "顺灏股份",
-            "stock_code": "002565",
-            "recommended_date": "2月11日",
-            "open_price": 5.62,
-            "highest_price": 9.50,
-            "fluctuation": "69.04%",
-            "recommended_reason": "工业大麻",
+            "stock_name": "西部建设",
+            "stock_code": "002302",
+            "recommended_date": "3月11日",
+            "open_price": 11.09,
+            "highest_price": 17.25,
+            "fluctuation": "55.55%",
+            "recommended_reason": "一带一路",
             "holding_period": "9天"
         },
         {
-            "stock_name": "新五丰",
-            "stock_code": "600975",
-            "recommended_date": "2月1日",
-            "open_price": 4.03,
-            "highest_price": 7.01,
-            "fluctuation": "71.22%",
-            "recommended_reason": "猪肉",
+            "stock_name": "国际实业",
+            "stock_code": "000159",
+            "recommended_date": "3月6日",
+            "open_price": 5.03,
+            "highest_price": 9.68,
+            "fluctuation": "92.45%",
+            "recommended_reason": "油品改革",
             "holding_period": "8天"
         }
     ],
     "wechatNum": {
-        "num": "yry668518"
+        "num": "mhn2589"
     },
     "monthBeforeLast_data": [
         {

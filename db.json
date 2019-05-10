@@ -1,70 +1,74 @@
 {
-    "data": [
-        {
-            "stock_name": "闽东电力",
-            "stock_code": "000993",
-            "recommended_date": "3月1日",
-            "open_price": 6.00,
-            "highest_price": 10.42,
-            "fluctuation": "73.67%",
-            "recommended_reason": "稀土永磁",
-            "holding_period": "9天"
-        },
-        {
-            "stock_name": "上海凤凰",
-            "stock_code": "600679",
-            "recommended_date": "3月11日",
-            "open_price": 11.11,
-            "highest_price": 18.67,
-            "fluctuation": "68.05%",
-            "recommended_reason": "上海自贸区",
-            "holding_period": "6天"
-        },
-        {
-            "stock_name": "西部建设",
-            "stock_code": "002302",
-            "recommended_date": "3月11日",
-            "open_price": 11.09,
-            "highest_price": 17.25,
-            "fluctuation": "55.55%",
-            "recommended_reason": "一带一路",
-            "holding_period": "9天"
-        },
-        {
-            "stock_name": "国际实业",
-            "stock_code": "000159",
-            "recommended_date": "3月6日",
-            "open_price": 5.03,
-            "highest_price": 9.68,
-            "fluctuation": "92.45%",
-            "recommended_reason": "油品改革",
-            "holding_period": "8天"
-        }
-    ],
-    "wechatNum": {
-        "num": "mhn2589"
+  "data": [
+    {
+      "stock_name": "闽东电力",
+      "stock_code": "000993",
+      "recommended_date": "3月1日",
+      "open_price": 6.0,
+      "highest_price": 10.42,
+      "fluctuation": "73.67%",
+      "recommended_reason": "稀土永磁",
+      "holding_period": "9天"
     },
-    "monthBeforeLast_data": [
-        {
-            "stock_name": "雄韬股份",
-            "recommended_date": "1月8日",
-            "open_price": 11.23,
-            "highest_price": 20.25,
-            "fluctuation": "80.32%"
-        },
-        {
-            "stock_name": "顺灏股份",
-            "recommended_date": "1月14日",
-            "open_price": 4.00,
-            "highest_price": 7.37,
-            "fluctuation": "84.25%"
-        },
-        {
-            "stock_name": "全柴动力",
-            "recommended_date": "1月9日",
-            "open_price": 4.78,
-            "highest_price": 8.83,
-            "fluctuation": "84.73%"
-        }
-    ]
+    {
+      "stock_name": "上海凤凰",
+      "stock_code": "600679",
+      "recommended_date": "3月11日",
+      "open_price": 11.11,
+      "highest_price": 18.67,
+      "fluctuation": "68.05%",
+      "recommended_reason": "上海自贸区",
+      "holding_period": "6天"
+    },
+    {
+      "stock_name": "西部建设",
+      "stock_code": "002302",
+      "recommended_date": "3月11日",
+      "open_price": 11.09,
+      "highest_price": 17.25,
+      "fluctuation": "55.55%",
+      "recommended_reason": "一带一路",
+      "holding_period": "9天"
+    },
+    {
+      "stock_name": "国际实业",
+      "stock_code": "000159",
+      "recommended_date": "3月6日",
+      "open_price": 5.03,
+      "highest_price": 9.68,
+      "fluctuation": "92.45%",
+      "recommended_reason": "油品改革",
+      "holding_period": "8天"
+    }
+  ],
+  "wechatNum": {
+    "num": "mhn2589"
+  },
+  "monthBeforeLast_data": [
+    {
+      "stock_name": "雄韬股份",
+      "recommended_date": "1月8日",
+      "open_price": 11.23,
+      "highest_price": 20.25,
+      "fluctuation": "80.32%"
+    },
+    {
+      "stock_name": "顺灏股份",
+      "recommended_date": "1月14日",
+      "open_price": 4.0,
+      "highest_price": 7.37,
+      "fluctuation": "84.25%"
+    },
+    {
+      "stock_name": "全柴动力",
+      "recommended_date": "1月9日",
+      "open_price": 4.78,
+      "highest_price": 8.83,
+      "fluctuation": "84.73%"
+    }
+  ],
+  "HZCJDownloadPackage": {
+    "verson": "4.5.1",
+    "updateTime": "2019-05-09"
+  }
 }

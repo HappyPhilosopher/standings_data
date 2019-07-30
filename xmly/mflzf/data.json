@@ -1,0 +1,20 @@
+{
+  "images": {
+    "banner": "https://win.zhtzvip.com/data/xmly/mflzf/pictures/banner.png",
+    "icon_ad": "https://win.zhtzvip.com/data/xmly/mflzf/pictures/banner.png"
+  },
+  "programLists": [
+    {
+      "src": "https://win.zhtzvip.com/data/xmly/mflzf/audios/1.mp3",
+      "title": "跟庄擒牛必备4要素"
+    },
+    {
+      "src": "https://win.zhtzvip.com/data/xmly/mflzf/audios/2.mp3",
+      "title": "连板股票都有这4大特点"
+    },
+    {
+      "src": "https://win.zhtzvip.com/data/xmly/mflzf/audios/3.mp3",
+      "title": "如何识别股票洗盘与变盘"
+    }
+  ]
+}
